@@ -1,0 +1,146 @@
+[
+  {
+    "title": "CASHMERE SWEATER",
+    "price": 59,
+    "description": "Sweater made of spun cashmere wool fabric. Round neckline and long sleeves. Ribbed trims.",
+    "stock": 5,
+    "rating": 4.2,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/0077307081_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/0077307081_2_2_1.jpg"
+    ],
+    "details": ["100% cashmere"]
+  },
+  {
+    "title": "PRINTED SWEATSHIRT",
+    "price": 39,
+    "description": "Oversize sweatshirt with a round neck and long sleeves. Contrast slogan print on the front and back. Ribbed trims.",
+    "stock": 2,
+    "rating": 3.9,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/0679307403_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/0679307403_2_2_1.jpg"
+    ],
+    "details": ["98% cotton", "2% elastane"]
+  },
+  {
+    "title": "TEXTURED SWEATER",
+    "price": 23,
+    "description": "Sweater made of a spun cotton blend. Featuring a round neckline, long sleeves and ribbed trims.",
+    "stock": 13,
+    "rating": 3.5,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/1023312756_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/1023312756_2_2_1.jpg"
+    ],
+    "details": ["56% cotton", "44% polyester"]
+  },
+  {
+    "title": "CONTRAST PRINT SWEATSHIRT",
+    "price": 49,
+    "description": "Sweatshirt with a round neckline and long sleeves. Contrast prints on the front and back. Ribbed trims.",
+    "stock": 6,
+    "rating": 4.9,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/1165324529_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/1165324529_2_2_1.jpg"
+    ],
+    "details": ["64% cotton", "36% polyester"]
+  },
+  {
+    "title": "PURL KNIT SWEATER",
+    "price": 21,
+    "description": "Sweater made of spun cotton fabric. Round neck and long sleeves. Ribbed trims.",
+    "stock": 24,
+    "rating": 3.1,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3284320082_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3284320082_2_2_1.jpg"
+    ],
+    "details": ["100% cotton"]
+  },
+  {
+    "title": "TEXTURED COTTON SWEATER",
+    "price": 49,
+    "description": "Cotton knit sweater. Round neck and long sleeves. Rib trim.",
+    "stock": 33,
+    "rating": 4.1,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3332302803_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3332302803_2_2_1.jpg"
+    ],
+    "details": ["100% cotton"]
+  },
+  {
+    "title": "ROUND NECK SWEATSHIRT",
+    "price": 22,
+    "description": "Long sleeve sweatshirt with a round neck and ribbed trims.",
+    "stock": 44,
+    "rating": 4.8,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310529_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310529_2_2_1.jpg"
+    ],
+    "details": ["75% cotton", "25% polyester"]
+  },
+  {
+    "title": "ROUND NECK SWEATSHIRT",
+    "price": 26,
+    "description": "Long sleeve sweatshirt with a round neck and ribbed trims.",
+    "stock": 73,
+    "rating": 3.3,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310707_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310707_2_2_1.jpg"
+    ],
+    "details": ["75% cotton", "25% polyester"]
+  },
+  {
+    "title": "CREW NECK SWEATSHIRT",
+    "price": 39,
+    "description": "Round neck sweatshirt with long sleeves. Rib trim.",
+    "stock": 60,
+    "rating": 4.6,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310800_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310800_2_2_1.jpg"
+    ],
+    "details": ["75% cotton", "25% polyester"]
+  },
+  {
+    "title": "HEAT REACTIVE COLOURED SWEATSHIRT",
+    "price": 49,
+    "description": "Sweatshirt made of fabric that changes colour when exposed to heat.",
+    "stock": 98,
+    "rating": 4.4,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3992333629_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3992333629_2_2_1.jpg"
+    ],
+    "details": ["100% cotton"]
+  },
+  {
+    "title": "STRUCTURED SOFT SWEATER",
+    "price": 33,
+    "description": "Soft feel knit sweater. Round neck and long sleeves. Rib trim.",
+    "stock": 62,
+    "rating": 3.7,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/5755303400_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/5755303400_2_2_1.jpg"
+    ],
+    "details": ["50% viscose", "29% polyester", "21% polyamide"]
+  },
+  {
+    "title": "CONTRAST PRINT SWEATER",
+    "price": 59,
+    "description": "Cotton knit sweater. Round neck and long sleeves. Rib trim.",
+    "stock": 71,
+    "rating": 3.1,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/6216303629_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_sweaters/6216303629_2_2_1.jpg"
+    ],
+    "details": ["100% cotton"]
+  }
+]
