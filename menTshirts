@@ -1,0 +1,146 @@
+[
+  {
+    "title": "LINEN T-SHIRT",
+    "price": 29,
+    "description": "Loose-fitting T-shirt made of a linen and cotton blend fabric. Round neckline and short sleeves.",
+    "stock": 10,
+    "rating": 4,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0347300700_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0347300700_2_2_1.jpg"
+    ],
+    "details": ["53% cotton", "47% linen"]
+  },
+  {
+    "title": "OVERSIZED T-SHIRT",
+    "price": 42,
+    "description": "Oversized T-shirt with round neck and below-the-elbow length sleeves.",
+    "stock": 6,
+    "rating": 4.8,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0722329305_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0722329305_2_2_1.jpg"
+    ],
+    "details": ["100% cotton"]
+  },
+  {
+    "title": "TEXTURED T-SHIRT",
+    "price": 33,
+    "description": "Round neck T-shirt with short sleeves.",
+    "stock": 1,
+    "rating": 3,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0761412529_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0761412529_2_2_1.jpg"
+    ],
+    "details": ["55% polyester", "43% cotton", "2% elastane"]
+  },
+  {
+    "title": "PREMIUM SWEATSHIRT",
+    "price": 32,
+    "description": "Full cut sweatshirt with wide rib collar and short sleeves.",
+    "stock": 7,
+    "rating": 4,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0761438401_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0761438401_2_2_1.jpg"
+    ],
+    "details": ["84% cotton", "16% polyester"]
+  },
+  {
+    "title": "SOFT TOP",
+    "price": 27,
+    "description": "Loose-fitting T-shirt with round neckline and short sleeves.",
+    "stock": 16,
+    "rating": 4.3,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/1716340527_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/1716340527_2_2_1.jpg"
+    ],
+    "details": ["67% cotton", "33% polyester"]
+  },
+  {
+    "title": "BASIC HEAVYWEIGHT T-SHIRT",
+    "price": 29,
+    "description": "Roomy T-shirt made of dense cotton. Round neck and short sleeves.",
+    "stock": 51,
+    "rating": 3.6,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/1887411250_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/1887411250_2_2_1.jpg"
+    ],
+    "details": ["100% cotton"]
+  },
+  {
+    "title": "TEXTURED KNIT T-SHIRT",
+    "price": 15,
+    "description": "Knit T-shirt made of spun cotton fabric. Round neck and short sleeves. Ribbed trims",
+    "stock": 60,
+    "rating": 4,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/2621420804_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/2621420804_2_2_1.jpg"
+    ],
+    "details": ["100% cotton"]
+  },
+  {
+    "title": "TOWEL SWEATSHIRT",
+    "price": 29,
+    "description": "Loose sweatshirt made from a cotton blend fabric. Round neck and short sleeves.",
+    "stock": 58,
+    "rating": 4.4,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/2795307615_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/2795307615_2_2_1.jpg"
+    ],
+    "details": ["100% polyester"]
+  },
+  {
+    "title": "TEXTURED JACQUARD T-SHIRT",
+    "price": 25,
+    "description": "Full cut T-shirt with crew neck and short sleeves.",
+    "stock": 50,
+    "rating": 3.8,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4087362706_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4087362706_2_2_1.jpg"
+    ],
+    "details": ["80% cotton", "13% polyester", "7% elastane"]
+  },
+  {
+    "title": "RIB NECK T-SHIRT",
+    "price": 19,
+    "description": "Loose-fitting T-shirt with a wide rib neckline and short sleeves.",
+    "stock": 28,
+    "rating": 4,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4087461648_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4087461648_2_2_1.jpg"
+    ],
+    "details": ["100% cotton"]
+  },
+  {
+    "title": "WORN TANK TOP",
+    "price": 39,
+    "description": "Full cut T-shirt with crew neck and short sleeves. All over ripped effect.",
+    "stock": 78,
+    "rating": 4.4,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4729353922_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4729353922_2_2_1.jpg"
+    ],
+    "details": ["100% cotton"]
+  },
+  {
+    "title": "VINTAGE FADED DENIM T-SHIRT",
+    "price": 27,
+    "description": "T-shirt made of lightweight denim. Featuring a round neckline.",
+    "stock": 54,
+    "rating": 4.8,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/7627304400_2_1_1.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/men_tshirts/7627304400_2_2_1.jpg"
+    ],
+    "details": ["100% cotton"]
+  }
+]
