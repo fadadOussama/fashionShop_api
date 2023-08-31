@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Oversized T-shirt",
+    "price": 22,
+    "description": "Oversized T-shirt in soft cotton jersey with a round, rib-trimmed neckline, low dropped shoulders and straight-cut hem",
+    "stock": 5,
+    "rating": 3.9,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(1).jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(10).jpg"
+    ],
+    "details": ["100% Cotton"]
+  },
+  {
+    "title": "Oversized Printed T-shirt",
+    "price": 30,
+    "description": "Oversized T-shirt in soft cotton jersey with a print motif on the front. Rib-trimmed neckline and low dropped shoulders.",
+    "stock": 55,
+    "rating": 4.5,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(11).jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(12).jpg"
+    ],
+    "details": ["3% Elastane","52% Polyester"]
+  },
+  {
+    "title": "Simple T-shirt",
+    "price": 45,
+    "description": "Short, oversized T-shirt in soft jersey. Boxy style with a ribbed trim around the neckline and dropped shoulders.",
+    "stock": 20,
+    "rating": 3.5,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(3).jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(13).jpg"
+    ],
+    "details": ["100% Cotton"]
+  },
+  {
+    "title": "White T-shirt",
+    "price": 19,
+    "description": "Oversized T-shirt in soft cotton jersey. Ribbed crew neck, dropped shoulders, and elbow-length sleeves.",
+    "stock": 15,
+    "rating": 4,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod.jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(14).jpg"
+    ],
+    "details": ["Cotton 100%"]
+  },
+  {
+    "title": "Motif-detail T-shirt",
+    "price": 35,
+    "description": "Oversized T-shirt in soft cotton jersey with an embroidered motif at front and printed motif at back. Ribbed neckline and dropped shoulders.",
+    "stock": 22,
+    "rating": 4.9,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(2).jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(15).jpg"
+    ],
+    "details": ["Cotton 100%"]
+  },
+  {
+    "title": "Oxford printed T-shirt",
+    "price": 35,
+    "description": "Oversized T-shirt in soft cotton jersey with a print motif on the front. Ribbed trim around the neckline and dropped shoulders.",
+    "stock": 3,
+    "rating": 4.8,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(6).jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(16).jpg"
+    ],
+    "details": ["100% Cotton"]
+  },
+  {
+    "title": "Fitted T-shirt",
+    "price": 10,
+    "description": "Fitted T-shirt in soft cotton jersey with flatlock seams for added comfort. Ribbed trim at neckline and a straight-cut hem.",
+    "stock": 21,
+    "rating": 3.2,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(17).jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(18).jpg"
+    ],
+    "details": ["Cotton 95%","Spandex 5%"]
+  },
+  {
+    "title": "Blur printed T-shirt",
+    "price": 40,
+    "description": "Oversized T-shirt in soft cotton jersey with a print motif on the front. Ribbed trim around the neckline and dropped shoulders.",
+    "stock": 2,
+    "rating": 5,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(4).jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(19).jpg"
+    ],
+    "details": ["Cotton 100%"]
+  },
+  {
+    "title": "Mikey T-shirt",
+    "price": 18,
+    "description": "Oversized T-shirt in soft cotton jersey with a printed motif at front. Ribbed neckline and dropped shoulders.",
+    "stock": 7,
+    "rating": 4.7,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(20).jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(21).jpg"
+    ],
+    "details": ["Cotton 100%"]
+  },
+  {
+    "title": "Inhale Exhale T-shirt",
+    "price": 25,
+    "description": "Oversized T-shirt in soft cotton jersey with a print motif on the front. Ribbed trim around the neckline and low dropped shoulders.",
+    "stock": 55,
+    "rating": 4,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(22).jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(23).jpg"
+    ],
+    "details": ["100% Cotton"]
+  },
+  {
+    "title": "Nevana printed T-shirt",
+    "price": 45,
+    "description": "Oversized T-shirt in soft, printed cotton jersey with a ribbed trim around the neckline and dropped shoulders.",
+    "stock": 4,
+    "rating": 4.8,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(5).jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(9).jpg"
+    ],
+    "details": ["Cotton 100%","4% Wool","8% Wool"]
+  },
+  {
+    "title": "Long Printed T-shirt",
+    "price": 25,
+    "description": "Long, relaxed-fit T-shirt in soft cotton jersey with a printed design at front. Ribbed crew neck and dropped shoulders.",
+    "stock": 10,
+    "rating": 4.7,
+    "images": [
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(7).jpg",
+      "https://fadadoussama.github.io/fashionShop_api/women_tshirts/hmgoepprod%20(8).jpg"
+    ],
+    "details": ["Cotton 100%"]
+  }
+]
