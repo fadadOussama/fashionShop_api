@@ -11,7 +11,8 @@
         "https://fadadoussama.github.io/fashionShop_api/men_sweaters/0077307081_2_2_1.jpg"
       ],
       "details": ["100% cashmere"],
-      "category" : "sweater"
+      "category" : "sweater",
+      "id": 1
     },
     {
       "title": "LINEN T-SHIRT",
