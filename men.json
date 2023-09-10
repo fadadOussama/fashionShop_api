@@ -24,7 +24,9 @@
         "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0347300700_2_1_1.jpg",
         "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0347300700_2_2_1.jpg"
       ],
-      "details": ["53% cotton", "47% linen"]
+      "details": ["53% cotton", "47% linen"],
+      "category" : "tshirt",
+      "id": 2
     },
     {
       "title": "PRINTED SWEATSHIRT",
