@@ -38,7 +38,9 @@
         "https://fadadoussama.github.io/fashionShop_api/men_sweaters/0679307403_2_1_1.jpg",
         "https://fadadoussama.github.io/fashionShop_api/men_sweaters/0679307403_2_2_1.jpg"
       ],
-      "details": ["98% cotton", "2% elastane"]
+      "details": ["98% cotton", "2% elastane"],
+      "category" : "sweater",
+      "id": 3
     },
     {
       "title": "OVERSIZED T-SHIRT",
