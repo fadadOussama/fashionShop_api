@@ -1,6 +1,8 @@
 {
   "women":[
     {
+      "id":1,
+      "category":"sweater",
       "title": "Rib-knit Sweater",
       "price": 29,
       "description": "Slightly shorter sweater in a soft rib knit. Round, ribbed neckline and long raglan sleeves.",
@@ -14,6 +16,8 @@
     },
 
     {
+      "id":2,
+      "category":"tshirt",
       "title": "Oversized T-shirt",
       "price": 22,
       "description": "Oversized T-shirt in soft cotton jersey with a round, rib-trimmed neckline, low dropped shoulders and straight-cut hem",
@@ -27,6 +31,8 @@
     },
 
     {
+      "id":3,
+      "category":"sweater",
       "title": "Rib-knit jumper",
       "price": 25,
       "description": "Jumper in a soft rib knit containing some wool. Relaxed fit with low dropped shoulders, long sleeves and ribbing around the neckline and cuffs.",
@@ -40,6 +46,8 @@
     },
 
     {
+      "id":4,
+      "category":"tshirt",
       "title": "Oversized Printed T-shirt",
       "price": 30,
       "description": "Oversized T-shirt in soft cotton jersey with a print motif on the front. Rib-trimmed neckline and low dropped shoulders.",
@@ -53,6 +61,8 @@
     },
 
     {
+      "id":5,
+      "category":"sweater",
       "title": "Jacquard-knit jumper",
       "price": 40,
       "description": "Jumper in a soft jacquard knit containing some wool. Relaxed fit with a round neckline, dropped shoulders, long sleeves and a straight hem",
@@ -66,6 +76,8 @@
     },
 
     {
+      "id":6,
+      "category":"tshirt",
       "title": "Simple T-shirt",
       "price": 45,
       "description": "Short, oversized T-shirt in soft jersey. Boxy style with a ribbed trim around the neckline and dropped shoulders.",
@@ -79,6 +91,8 @@
     },
 
     {
+      "id":7,
+      "category":"sweater",
       "title": "Jacquard-knit Sweater",
       "price": 30,
       "description": "Relaxed-fit sweater in soft, jacquard-knit fabric with wool content. Stand-up collar, long raglan sleeves, and ribbing at neckline, cuffs, and hem.",
@@ -92,6 +106,8 @@
     },
 
     {
+      "id":8,
+      "category":"tshirt",
       "title": "White T-shirt",
       "price": 19,
       "description": "Oversized T-shirt in soft cotton jersey. Ribbed crew neck, dropped shoulders, and elbow-length sleeves.",
@@ -105,6 +121,8 @@
     },
 
     {
+      "id":9,
+      "category":"sweater",
       "title": "Beaded jumper",
       "price": 27,
       "description": "Jumper in a soft knit containing some wool with a round neckline, dropped shoulders and long sleeves",
@@ -118,6 +136,8 @@
     },
 
     {
+      "id":10,
+      "category":"tshirt",
       "title": "Motif-detail T-shirt",
       "price": 35,
       "description": "Oversized T-shirt in soft cotton jersey with an embroidered motif at front and printed motif at back. Ribbed neckline and dropped shoulders.",
@@ -131,6 +151,8 @@
     },
 
     {
+      "id":11,
+      "category":"sweater",
       "title": "Mohair-blend fine-knit jumper",
       "price": 29,
       "description": "Jumper in a soft, fine-knit mohair and wool blend with a round neckline, dropped shoulders and long sleeves. Wide ribbing around the neckline, cuffs and hem.",
@@ -144,6 +166,8 @@
     },
 
     {
+      "id":12,
+      "category":"tshirt",
       "title": "Oxford printed T-shirt",
       "price": 35,
       "description": "Oversized T-shirt in soft cotton jersey with a print motif on the front. Ribbed trim around the neckline and dropped shoulders.",
@@ -157,6 +181,8 @@
     },
 
     {
+      "id":13,
+      "category":"sweater",
       "title": "Rib-knit Sweater",
       "price": 27,
       "description": "Soft, knit sweater in a cotton blend. Round neckline, heavily dropped shoulders, and long, wide sleeves with close-fitting cuffs.",
@@ -170,6 +196,8 @@
     },
 
     {
+      "id":14,
+      "category":"tshirt",
       "title": "Fitted T-shirt",
       "price": 10,
       "description": "Fitted T-shirt in soft cotton jersey with flatlock seams for added comfort. Ribbed trim at neckline and a straight-cut hem.",
@@ -183,6 +211,8 @@
     },
 
     {
+      "id":15,
+      "category":"sweater",
       "title": "Lime Green Sweater",
       "price": 35,
       "description": "Oversized sweater with wool and alpaca wool content. Crew neck, dropped shoulders, and long sleeves. Straight hem. Ribbing at neckline, cuffs, and hem.",
@@ -196,6 +226,8 @@
     },
 
     {
+      "id":16,
+      "category":"tshirt",
       "title": "Blur printed T-shirt",
       "price": 40,
       "description": "Oversized T-shirt in soft cotton jersey with a print motif on the front. Ribbed trim around the neckline and dropped shoulders.",
@@ -209,6 +241,8 @@
     },
 
     {
+      "id":17,
+      "category":"sweater",
       "title": "Fine-knit Cashmere Sweater",
       "price": 49,
       "description": "Relaxed-fit sweater in soft, fine-knit cashmere. Round neckline, heavily dropped shoulders, and extra-long sleeves. Ribbing at neckline, cuffs, and hem. Rounded, slightly longer hem at back.",
@@ -222,6 +256,8 @@
     },
 
     {
+      "id":18,
+      "category":"tshirt",
       "title": "Mikey T-shirt",
       "price": 18,
       "description": "Oversized T-shirt in soft cotton jersey with a printed motif at front. Ribbed neckline and dropped shoulders.",
@@ -235,6 +271,8 @@
     },
 
     {
+      "id":19,
+      "category":"sweater",
       "title": "Fine-knit Cashmere Sweater",
       "price": 30,
       "description": "Relaxed-fit sweater in soft, fine-knit cashmere. Round neckline, heavily dropped shoulders, and extra-long sleeve",
@@ -248,6 +286,8 @@
     },
 
     {
+      "id":20,
+      "category":"tshirt",
       "title": "Inhale Exhale T-shirt",
       "price": 25,
       "description": "Oversized T-shirt in soft cotton jersey with a print motif on the front. Ribbed trim around the neckline and low dropped shoulders.",
@@ -261,6 +301,8 @@
     },
 
     {
+      "id":21,
+      "category":"sweater",
       "title": "Fine-knit Cashmere Sweater",
       "price": 60,
       "description": "Sweater in soft, fine knit cashmere. Features a round, rib trimmed neckline. Relaxed fit with low dropped shoulders",
@@ -274,6 +316,8 @@
     },
 
     {
+      "id":22,
+      "category":"tshirt",
       "title": "Nevana printed T-shirt",
       "price": 45,
       "description": "Oversized T-shirt in soft, printed cotton jersey with a ribbed trim around the neckline and dropped shoulders.",
@@ -287,6 +331,8 @@
     },
 
     {
+      "id":23,
+      "category":"sweater",
       "title": "Knitted jumper",
       "price": 20,
       "description": "Jumper in a soft knit containing some wool with a round, rib-trimmed neckline, dropped shoulders, long sleeves and ribbing at the cuffs and hem.",
@@ -300,6 +346,8 @@
     },
 
     {
+      "id":24,
+      "category":"tshirt",
       "title": "Long Printed T-shirt",
       "price": 25,
       "description": "Long, relaxed-fit T-shirt in soft cotton jersey with a printed design at front. Ribbed crew neck and dropped shoulders.",
