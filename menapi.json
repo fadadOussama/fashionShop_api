@@ -1,0 +1,340 @@
+{
+  "men": [
+    {
+      "title": "CASHMERE SWEATER",
+      "price": 59,
+      "description": "Sweater made of spun cashmere wool fabric. Round neckline and long sleeves. Ribbed trims.",
+      "stock": 5,
+      "rating": 4.2,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/0077307081_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/0077307081_2_2_1.jpg"
+      ],
+      "details": ["100% cashmere"],
+      "category": "sweater",
+      "id": 1
+    },
+    {
+      "title": "LINEN T-SHIRT",
+      "price": 29,
+      "description": "Loose-fitting T-shirt made of a linen and cotton blend fabric. Round neckline and short sleeves.",
+      "stock": 10,
+      "rating": 4,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0347300700_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0347300700_2_2_1.jpg"
+      ],
+      "details": ["53% cotton", "47% linen"],
+      "category": "tshirt",
+      "id": 2
+    },
+    {
+      "title": "PRINTED SWEATSHIRT",
+      "price": 39,
+      "description": "Oversize sweatshirt with a round neck and long sleeves. Contrast slogan print on the front and back. Ribbed trims.",
+      "stock": 2,
+      "rating": 3.9,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/0679307403_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/0679307403_2_2_1.jpg"
+      ],
+      "details": ["98% cotton", "2% elastane"],
+      "category": "sweater",
+      "id": 3
+    },
+    {
+      "title": "OVERSIZED T-SHIRT",
+      "price": 42,
+      "description": "Oversized T-shirt with round neck and below-the-elbow length sleeves.",
+      "stock": 6,
+      "rating": 4.8,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0722329305_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0722329305_2_2_1.jpg"
+      ],
+      "details": ["100% cotton"],
+      "category": "tshirt",
+      "id": 4
+    },
+    {
+      "title": "TEXTURED SWEATER",
+      "price": 23,
+      "description": "Sweater made of a spun cotton blend. Featuring a round neckline, long sleeves and ribbed trims.",
+      "stock": 13,
+      "rating": 3.5,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/1023312756_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/1023312756_2_2_1.jpg"
+      ],
+      "details": ["56% cotton", "44% polyester"],
+      "category": "sweater",
+      "id": 5
+    },
+    {
+      "title": "TEXTURED T-SHIRT",
+      "price": 33,
+      "description": "Round neck T-shirt with short sleeves.",
+      "stock": 1,
+      "rating": 3,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0761412529_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0761412529_2_2_1.jpg"
+      ],
+      "details": ["55% polyester", "43% cotton", "2% elastane"],
+      "category": "tshirt",
+      "id": 6
+    },
+    {
+      "title": "CONTRAST PRINT SWEATSHIRT",
+      "price": 49,
+      "description": "Sweatshirt with a round neckline and long sleeves. Contrast prints on the front and back. Ribbed trims.",
+      "stock": 6,
+      "rating": 4.9,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/1165324529_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/1165324529_2_2_1.jpg"
+      ],
+      "details": ["64% cotton", "36% polyester"],
+      "category": "sweater",
+      "id": 7
+    },
+    {
+      "title": "PREMIUM SWEATSHIRT",
+      "price": 32,
+      "description": "Full cut sweatshirt with wide rib collar and short sleeves.",
+      "stock": 7,
+      "rating": 4,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0761438401_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/0761438401_2_2_1.jpg"
+      ],
+      "details": ["84% cotton", "16% polyester"],
+      "category": "tshirt",
+      "id": 8
+    },
+    {
+      "title": "PURL KNIT SWEATER",
+      "price": 21,
+      "description": "Sweater made of spun cotton fabric. Round neck and long sleeves. Ribbed trims.",
+      "stock": 24,
+      "rating": 3.1,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3284320082_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3284320082_2_2_1.jpg"
+      ],
+      "details": ["100% cotton"],
+      "category": "sweater",
+      "id": 9
+    },
+    {
+      "title": "SOFT TOP",
+      "price": 27,
+      "description": "Loose-fitting T-shirt with round neckline and short sleeves.",
+      "stock": 16,
+      "rating": 4.3,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/1716340527_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/1716340527_2_2_1.jpg"
+      ],
+      "details": ["67% cotton", "33% polyester"],
+      "category": "tshirt",
+      "id": 10
+    },
+    {
+      "title": "TEXTURED COTTON SWEATER",
+      "price": 49,
+      "description": "Cotton knit sweater. Round neck and long sleeves. Rib trim.",
+      "stock": 33,
+      "rating": 4.1,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3332302803_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3332302803_2_2_1.jpg"
+      ],
+      "details": ["100% cotton"],
+      "category": "sweater",
+      "id": 11
+    },
+    {
+      "title": "BASIC HEAVYWEIGHT T-SHIRT",
+      "price": 29,
+      "description": "Roomy T-shirt made of dense cotton. Round neck and short sleeves.",
+      "stock": 51,
+      "rating": 3.6,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/1887411250_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/1887411250_2_2_1.jpg"
+      ],
+      "details": ["100% cotton"],
+      "category": "tshirt",
+      "id": 12
+    },
+    {
+      "title": "ROUND NECK SWEATSHIRT",
+      "price": 22,
+      "description": "Long sleeve sweatshirt with a round neck and ribbed trims.",
+      "stock": 44,
+      "rating": 4.8,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310529_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310529_2_2_1.jpg"
+      ],
+      "details": ["75% cotton", "25% polyester"],
+      "category": "sweater",
+      "id": 13
+    },
+    {
+      "title": "TEXTURED KNIT T-SHIRT",
+      "price": 15,
+      "description": "Knit T-shirt made of spun cotton fabric. Round neck and short sleeves. Ribbed trims",
+      "stock": 60,
+      "rating": 4,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/2621420804_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/2621420804_2_2_1.jpg"
+      ],
+      "details": ["100% cotton"],
+      "category": "tshirt",
+      "id": 14
+    },
+    {
+      "title": "ROUND NECK SWEATSHIRT",
+      "price": 26,
+      "description": "Long sleeve sweatshirt with a round neck and ribbed trims.",
+      "stock": 73,
+      "rating": 3.3,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310707_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310707_2_2_1.jpg"
+      ],
+      "details": ["75% cotton", "25% polyester"],
+      "category": "sweater",
+      "id": 15
+    },
+    {
+      "title": "TOWEL SWEATSHIRT",
+      "price": 29,
+      "description": "Loose sweatshirt made from a cotton blend fabric. Round neck and short sleeves.",
+      "stock": 58,
+      "rating": 4.4,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/2795307615_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/2795307615_2_2_1.jpg"
+      ],
+      "details": ["100% polyester"],
+      "category": "tshirt",
+      "id": 16
+    },
+    {
+      "title": "CREW NECK SWEATSHIRT",
+      "price": 39,
+      "description": "Round neck sweatshirt with long sleeves. Rib trim.",
+      "stock": 60,
+      "rating": 4.6,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310800_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3443310800_2_2_1.jpg"
+      ],
+      "details": ["75% cotton", "25% polyester"],
+      "category": "sweater",
+      "id": 17
+    },
+    {
+      "title": "TEXTURED JACQUARD T-SHIRT",
+      "price": 25,
+      "description": "Full cut T-shirt with crew neck and short sleeves.",
+      "stock": 50,
+      "rating": 3.8,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4087362706_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4087362706_2_2_1.jpg"
+      ],
+      "details": ["80% cotton", "13% polyester", "7% elastane"],
+      "category": "tshirt",
+      "id": 18
+    },
+    {
+      "title": "HEAT REACTIVE COLOURED SWEATSHIRT",
+      "price": 49,
+      "description": "Sweatshirt made of fabric that changes colour when exposed to heat.",
+      "stock": 98,
+      "rating": 4.4,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3992333629_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/3992333629_2_2_1.jpg"
+      ],
+      "details": ["100% cotton"],
+      "category": "sweater",
+      "id": 19
+    },
+    {
+      "title": "RIB NECK T-SHIRT",
+      "price": 19,
+      "description": "Loose-fitting T-shirt with a wide rib neckline and short sleeves.",
+      "stock": 28,
+      "rating": 4,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4087461648_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4087461648_2_2_1.jpg"
+      ],
+      "details": ["100% cotton"],
+      "category": "tshirt",
+      "id": 20
+    },
+    {
+      "title": "STRUCTURED SOFT SWEATER",
+      "price": 33,
+      "description": "Soft feel knit sweater. Round neck and long sleeves. Rib trim.",
+      "stock": 62,
+      "rating": 3.7,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/5755303400_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/5755303400_2_2_1.jpg"
+      ],
+      "details": ["50% viscose", "29% polyester", "21% polyamide"],
+      "category": "sweater",
+      "id": 21
+    },
+    {
+      "title": "WORN TANK TOP",
+      "price": 39,
+      "description": "Full cut T-shirt with crew neck and short sleeves. All over ripped effect.",
+      "stock": 78,
+      "rating": 4.4,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4729353922_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/4729353922_2_2_1.jpg"
+      ],
+      "details": ["100% cotton"],
+      "category": "tshirt",
+      "id": 22
+    },
+    {
+      "title": "CONTRAST PRINT SWEATER",
+      "price": 59,
+      "description": "Cotton knit sweater. Round neck and long sleeves. Rib trim.",
+      "stock": 71,
+      "rating": 3.1,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/6216303629_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_sweaters/6216303629_2_2_1.jpg"
+      ],
+      "details": ["100% cotton"],
+      "category": "sweater",
+      "id": 23
+    },
+    {
+      "title": "VINTAGE FADED DENIM T-SHIRT",
+      "price": 27,
+      "description": "T-shirt made of lightweight denim. Featuring a round neckline.",
+      "stock": 54,
+      "rating": 4.8,
+      "images": [
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/7627304400_2_1_1.jpg",
+        "https://fadadoussama.github.io/fashionShop_api/men_tshirts/7627304400_2_2_1.jpg"
+      ],
+      "details": ["100% cotton"],
+      "category": "tshirt",
+      "id": 24
+    }
+  ]
+}
