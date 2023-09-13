@@ -9,8 +9,8 @@
       "stock": 5,
       "rating": 4.2,
       "images": [
+        "https://fadadoussama.github.io/fashionShop_api/women_sweaters/hmgoepprod.jpg",
         "https://fadadoussama.github.io/fashionShop_api/women_sweaters/hmgoepprod%20(1).jpg",
-        "https://fadadoussama.github.io/fashionShop_api/women_sweaters/hmgoepprod.jpg"
       ],
       "details": ["54% Polyester", "36% Acrylic","8% Wool"]
     },
